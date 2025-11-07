@@ -1,0 +1,218 @@
+[
+  {
+    "codigo": "F32.0",
+    "titulo": "Episodio depresivo leve",
+    "texto_completo": "Episodio depresivo leve. Dos o tres de los síntomas están presentes. El paciente generalmente está apto para continuar con la mayoría de sus actividades.",
+    "grupo": "Trastornos del humor [afectivos]",
+    "capitulo": "Trastornos mentales y del comportamiento (F00–F99)",
+    "referencias": [9]
+  },
+  {
+    "codigo": "F32.1",
+    "titulo": "Episodio depresivo moderado",
+    "texto_completo": "Episodio depresivo moderado. Cuatro o más de los síntomas están presentes, y el paciente tiene grandes dificultades para continuar realizando sus actividades ordinarias.",
+    "grupo": "Trastornos del humor [afectivos]",
+    "capitulo": "Trastornos mentales y del comportamiento (F00–F99)",
+    "referencias": [10]
+  },
+  {
+    "codigo": "F32.2",
+    "titulo": "Episodio depresivo grave sin síntomas psicóticos",
+    "texto_completo": "Episodio depresivo grave sin síntomas psicóticos. Varios de los síntomas característicos son marcados, especialmente la pérdida de la autoestima e ideas de inutilidad y de culpa. Son frecuentes las ideas y las acciones suicidas, y usualmente se presenta una cantidad de síntomas somáticos.",
+    "grupo": "Trastornos del humor [afectivos]",
+    "capitulo": "Trastornos mentales y del comportamiento (F00–F99)",
+    "referencias": [11]
+  },
+  {
+    "codigo": "F32.3",
+    "titulo": "Episodio depresivo grave con síntomas psicóticos",
+    "texto_completo": "Episodio depresivo grave con síntomas psicóticos. Similar a F32.2, pero con aparición de alucinaciones, delirios, retraso psicomotor, o estupor grave.",
+    "grupo": "Trastornos del humor [afectivos]",
+    "capitulo": "Trastornos mentales y del comportamiento (F00–F99)",
+    "referencias": [11, 12]
+  },
+  {
+    "codigo": "F32.8",
+    "titulo": "Otros episodios depresivos",
+    "texto_completo": "Otros episodios depresivos. Incluye Depresión atípica y Episodios únicos de depresión enmascarada.",
+    "grupo": "Trastornos del humor [afectivos]",
+    "capitulo": "Trastornos mentales y del comportamiento (F00–F99)",
+    "referencias": [12]
+  },
+  {
+    "codigo": "F32.9",
+    "titulo": "Episodio depresivo, no especificado",
+    "texto_completo": "Episodio depresivo no especificado. Incluye Depresión SAI y Trastorno depresivo SAI.",
+    "grupo": "Trastornos del humor [afectivos]",
+    "capitulo": "Trastornos mentales y del comportamiento (F00–F99)",
+    "referencias": [12]
+  },
+  {
+    "codigo": "F33.0",
+    "titulo": "Trastorno depresivo recurrente, episodio leve presente",
+    "texto_completo": "Trastorno depresivo recurrente, episodio leve presente. Episodio actual leve, sin antecedentes de manía.",
+    "grupo": "Trastornos del humor [afectivos]",
+    "capitulo": "Trastornos mentales y del comportamiento (F00–F99)",
+    "referencias": [14]
+  },
+  {
+    "codigo": "F33.1",
+    "titulo": "Trastorno depresivo recurrente, episodio moderado presente",
+    "texto_completo": "Trastorno depresivo recurrente, episodio moderado presente. Episodio actual de gravedad moderada, sin antecedentes de manía.",
+    "grupo": "Trastornos del humor [afectivos]",
+    "capitulo": "Trastornos mentales y del comportamiento (F00–F99)",
+    "referencias": [14]
+  },
+  {
+    "codigo": "F33.2",
+    "titulo": "Trastorno depresivo recurrente, episodio depresivo grave presente sin síntomas psicóticos",
+    "texto_completo": "Trastorno depresivo recurrente, episodio depresivo grave presente sin síntomas psicóticos. Episodio actual grave sin síntomas psicóticos, sin antecedentes de manía. Incluye Depresión endógena sin síntomas psicóticos.",
+    "grupo": "Trastornos del humor [afectivos]",
+    "capitulo": "Trastornos mentales y del comportamiento (F00–F99)",
+    "referencias": [15]
+  },
+  {
+    "codigo": "F33.3",
+    "titulo": "Trastorno depresivo recurrente, episodio depresivo grave presente, con síntomas psicóticos",
+    "texto_completo": "Trastorno depresivo recurrente, episodio depresivo grave presente con síntomas psicóticos. Episodio actual grave con síntomas psicóticos, sin antecedentes de manía. Incluye Psicosis depresiva reactiva recurrente.",
+    "grupo": "Trastornos del humor [afectivos]",
+    "capitulo": "Trastornos mentales y del comportamiento (F00–F99)",
+    "referencias": [15, 16]
+  },
+  {
+    "codigo": "F33.4",
+    "titulo": "Trastorno depresivo recurrente actualmente en remisión",
+    "texto_completo": "Trastorno depresivo recurrente actualmente en remisión. Ha sufrido dos o más episodios depresivos pero no tiene síntomas depresivos desde hace varios meses.",
+    "grupo": "Trastornos del humor [afectivos]",
+    "capitulo": "Trastornos mentales y del comportamiento (F00–F99)",
+    "referencias": [16]
+  },
+  {
+    "codigo": "F33.8",
+    "titulo": "Otros trastornos depresivos recurrentes",
+    "texto_completo": "Otros trastornos depresivos recurrentes.",
+    "grupo": "Trastornos del humor [afectivos]",
+    "capitulo": "Trastornos mentales y del comportamiento (F00–F99)",
+    "referencias": [17]
+  },
+  {
+    "codigo": "F33.9",
+    "titulo": "Trastorno depresivo recurrente, no especificado",
+    "texto_completo": "Trastorno depresivo recurrente no especificado. Incluye Depresión monopolar SAI.",
+    "grupo": "Trastornos del humor [afectivos]",
+    "capitulo": "Trastornos mentales y del comportamiento (F00–F99)",
+    "referencias": [17]
+  },
+  {
+    "codigo": "F34.1",
+    "titulo": "Distimia",
+    "texto_completo": "Distimia. Depresión crónica del humor, que dura al menos varios años y no es suficientemente grave. Incluye Depresión neurótica y Neurosis depresiva.",
+    "grupo": "Trastornos del humor [afectivos]",
+    "capitulo": "Trastornos mentales y del comportamiento (F00–F99)",
+    "referencias": [18]
+  },
+  {
+    "codigo": "F38.1",
+    "titulo": "Otros trastornos del humor [afectivos], recurrentes",
+    "texto_completo": "Otros trastornos del humor recurrentes. Incluye Episodios depresivos recurrentes breves.",
+    "grupo": "Trastornos del humor [afectivos]",
+    "capitulo": "Trastornos mentales y del comportamiento (F00–F99)",
+    "referencias": [19]
+  },
+  {
+    "codigo": "F39",
+    "titulo": "Trastorno del humor [afectivo], no especificado",
+    "texto_completo": "Trastorno del humor no especificado. Incluye Psicosis afectiva SAI.",
+    "grupo": "Trastornos del humor [afectivos]",
+    "capitulo": "Trastornos mentales y del comportamiento (F00–F99)",
+    "referencias": [5, 7]
+  },
+  {
+    "codigo": "F40.0",
+    "titulo": "Agorafobia",
+    "texto_completo": "Agorafobia. Miedo a salir del hogar, a entrar a locales comerciales, a sitios donde hay multitudes o a lugares públicos, o el miedo a viajar solo. Característica frecuente es la crisis de angustia o pánico.",
+    "grupo": "Trastornos neuróticos, relacionados con el estrés y somatomorfos",
+    "capitulo": "Trastornos mentales y del comportamiento (F00–F99)",
+    "referencias": [20, 21]
+  },
+  {
+    "codigo": "F40.1",
+    "titulo": "Fobias sociales",
+    "texto_completo": "Fobias sociales. Temor a ser escudriñado por la gente, que lleva al paciente a evitar situaciones de interacción social.",
+    "grupo": "Trastornos neuróticos, relacionados con el estrés y somatomorfos",
+    "capitulo": "Trastornos mentales y del comportamiento (F00–F99)",
+    "referencias": [21]
+  },
+  {
+    "codigo": "F40.9",
+    "titulo": "Trastorno fóbico de ansiedad, no especificado",
+    "texto_completo": "Trastorno fóbico de ansiedad no especificado. Incluye Estado fóbico SAI y Fobia SAI.",
+    "grupo": "Trastornos neuróticos, relacionados con el estrés y somatomorfos",
+    "capitulo": "Trastornos mentales y del comportamiento (F00–F99)",
+    "referencias": [22]
+  },
+  {
+    "codigo": "F41.0",
+    "titulo": "Trastorno de pánico [ansiedad paroxística episódica]",
+    "texto_completo": "Trastorno de pánico. Ataques recurrentes de ansiedad grave o pánico, que no se restringen a una situación en particular y que por lo tanto son impredecibles.",
+    "grupo": "Trastornos neuróticos, relacionados con el estrés y somatomorfos",
+    "capitulo": "Trastornos mentales y del comportamiento (F00–F99)",
+    "referencias": [23, 24]
+  },
+  {
+    "codigo": "F41.1",
+    "titulo": "Trastorno de ansiedad generalizada",
+    "texto_completo": "Trastorno de ansiedad generalizada. Ansiedad persistente que no se restringe a ninguna circunstancia en particular. Incluye Neurosis de ansiedad.",
+    "grupo": "Trastornos neuróticos, relacionados con el estrés y somatomorfos",
+    "capitulo": "Trastornos mentales y del comportamiento (F00–F99)",
+    "referencias": [24, 25]
+  },
+  {
+    "codigo": "F41.2",
+    "titulo": "Trastorno mixto de ansiedad y depresión",
+    "texto_completo": "Trastorno mixto de ansiedad y depresión. Existen tanto síntomas de ansiedad como de depresión, pero sin que ninguno de estos sea claramente predominante.",
+    "grupo": "Trastornos neuróticos, relacionados con el estrés y somatomorfos",
+    "capitulo": "Trastornos mentales y del comportamiento (F00–F99)",
+    "referencias": [25, 26]
+  },
+  {
+    "codigo": "F41.9",
+    "titulo": "Trastorno de ansiedad, no especificado",
+    "texto_completo": "Trastorno de ansiedad no especificado. Incluye Ansiedad SAI.",
+    "grupo": "Trastornos neuróticos, relacionados con el estrés y somatomorfos",
+    "capitulo": "Trastornos mentales y del comportamiento (F00–F99)",
+    "referencias": [26]
+  },
+  {
+    "codigo": "F43.0",
+    "titulo": "Reacción al estrés agudo",
+    "texto_completo": "Reacción al estrés agudo. Trastorno transitorio en respuesta a un estrés físico y mental excepcional, remite habitualmente en un lapso de horas o de días. Incluye Choque psíquico y Fatiga de combate.",
+    "grupo": "Reacción al estrés grave y trastornos de adaptación",
+    "capitulo": "Trastornos mentales y del comportamiento (F00–F99)",
+    "referencias": [28, 29]
+  },
+  {
+    "codigo": "F43.1",
+    "titulo": "Trastorno de estrés postraumático",
+    "texto_completo": "Trastorno de estrés postraumático. Respuesta retardada o tardía a un suceso estresante excepcionalmente amenazante o catastrófico. Caracterizado por episodios repetidos en que se revive el trauma sobre un fondo de torpor y aplanamiento emocional.",
+    "grupo": "Reacción al estrés grave y trastornos de adaptación",
+    "capitulo": "Trastornos mentales y del comportamiento (F00–F99)",
+    "referencias": [29, 30]
+  },
+  {
+    "codigo": "F43.2",
+    "titulo": "Trastornos de adaptación",
+    "texto_completo": "Trastornos de adaptación. Angustia subjetiva y perturbación emocional, que interfieren con el funcionamiento social, que surgen en la fase de adaptación a un cambio vital significativo o a un suceso vital estresante.",
+    "grupo": "Reacción al estrés grave y trastornos de adaptación",
+    "capitulo": "Trastornos mentales y del comportamiento (F00–F99)",
+    "referencias": [30, 31]
+  },
+  {
+    "codigo": "F45.3",
+    "titulo": "Disfunción autonómica somatomorfa",
+    "texto_completo": "Disfunción autonómica somatomorfa. Síntomas basados en signos de excitación del sistema nervioso autónomo (palpitaciones, sudoración, etc.) y quejas subjetivas inespecíficas referidas a un órgano o sistema, sin trastorno físico. Incluye Neurosis cardíaca y Dispepsia nerviosa.",
+    "grupo": "Trastornos somatomorfos",
+    "capitulo": "Trastornos mentales y del comportamiento (F00–F99)",
+    "referencias": [33, 34]
+  }
+]
