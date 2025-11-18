@@ -14,7 +14,6 @@ from .matcher_utils import (
 
 pln = spacy.load("es_core_news_md")
 
-# CAMBIO 1: Volvemos al endpoint '/api/generate'
 # Es más compatible con modelos que no son explícitamente de "chat".
 OLLAMA_URL = "http://localhost:11434/api/generate" 
 MODEL_NAME = "phi3:3.8b" # Mantenemos tu modelo
@@ -63,8 +62,6 @@ def analizar_chat(request):
     except Exception as e:
         print(f"Error en RAG: {e}")
 
-    # --- CAMBIO 2: Construir un 'prompt' único desde el historial ---
-    # El endpoint /api/generate no entiende 'messages', solo 'prompt'.
     # Usamos el formato ChatML que Phi-3 entiende.
     
     final_prompt = f"<|system|>\n{SYSTEM_PROMPT}<|end|>\n"
@@ -117,7 +114,6 @@ def analizar_chat(request):
         return Response({"error": f"Error en la llamada a Ollama: {str(e)}"})
 
 
-# --- TUS OTRAS VISTAS (SIN CAMBIOS) ---
 # Estas funciones están bien y no tienen conflicto.
 
 @api_view(["POST"])
@@ -138,7 +134,6 @@ def analizar_texto(request):
 @api_view(["POST"])
 def analizar_patrones(request):
     """Extrae síntomas con intensidad usando matcher_utils."""
-    # ... (tu código original va aquí)
     texto = request.data.get("texto", "")
     patrones = extraer_patrones(texto)
     if not patrones:
